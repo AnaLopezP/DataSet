@@ -63,8 +63,8 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
 
 2) Informacion de la tripulación: gráficas
   - Comparación de la masa con la edad y la masa con la altura
-  - Peso medio tierra
-  - Peso medio Saturno
+  - Variación del Peso
+    ![variacion peso](/Graficas/variacion-peso.jpg)
   - Variación del peso en el viaje (pérdida de masa muscular)
       Cuando se hace un viaje espacial de muchos meses, se empieza a perder un porcentaje de masa muscular cada cierto tiempo. Hemos calculado la masa que les quedarían a la tripulación una vez cubren la distancia hacia cada planeta. Estas gráficas comparan, en cada tripulante, la masa inicial con la restante en todo el proceso de pérdida.
   
