@@ -20,6 +20,9 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
 DETALLES DEL DATASET:
 
 1) Informacion de los planetas: gráficas
+  - Gases que hay en las atmosferas
+  - Comparación de tamaño (masa, radio, gravedad)
+  - Relación de la masa con la fuerza de atracción
 
 2) Informacion de la tripulación: gráficas
   - Edad media
@@ -35,5 +38,5 @@ DETALLES DEL DATASET:
 4) Investigacion del planeta en el que se encuentra la tripulación
   - Comparación de los errores calculados
 
-5)
+5) Información de Saturno
   
