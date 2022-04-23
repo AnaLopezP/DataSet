@@ -62,7 +62,13 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
         En estas gráficas vemos la relación que tiene el tamaño y masa de cada planeta con la fuerza de atracción.
 
 2) Informacion de la tripulación: gráficas
-  - Comparación de la masa con la edad y la masa con la altura
+  - Comparación de la masa con la edad,  la masa con la altura y edad con la altura
+    ![edad y masa](/Graficas/edad-masa.jpg)
+    
+    ![edad y altura](/Graficas/edad-altura.jpg)
+    
+    ![masa y altura](/Graficas/altura-masa.jpg)
+    
   - Variación del Peso
     ![variacion peso](/Graficas/variacion-peso.jpg)
   - Variación del peso en el viaje (pérdida de masa muscular)
