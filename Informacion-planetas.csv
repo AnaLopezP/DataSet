@@ -1,7 +1,0 @@
-﻿Planetas;Gravedad(m/s^2);Distancia Tierra(m);Rotación(horas);Temperatura mínima(℃);Temperatura más alta;Traslación(días);Radio(m);Lunas;Oxígeno(%);Masa(kg);Distancia Sol(m);Superficie principal;Agua;Gas principal;;;
-Tierra;9,8;0;24;-89,2;56,7;365,5;6,37E+06;1;21;5,93E+24;1,50E+11;Agua;Líquido;Nitrógeno;;;
-Marte;3,71;3,99E+11;25;-80;30;687;3,39E+06;2;0,13;6,40E+23;2,49E+11;Óxido de hierro;Líquido;Dióxido de carbono;;;
-Jupiter;23,12;6,60E+11;10;-163;121;4333;6,99E+07;79;0;1,90E+27;7,50E+11;Nubes de gases;Gas;Hidrógeno;;;
-Saturno;8,96;1,28E+12;10,5;-191,15;-130,15;10759;5,82E+07;53;0;5,98E+26;1,40E+12;Nubes de gases;Gas;Hidrógeno;;;
-Urano;8,69;4,30E+12;17;-224;-218;30688;2,54E+07;27;0;8,67E+25;3,00E+12;Hielo;Sólido;Hidrógeno;;;
-Neptuno;11;4,30E+12;16;-223;-217;60182;2,46E+07;14;0;1,05E+26;4,50E+12;Nubes de gases;Gas;Hidrógeno;;;
