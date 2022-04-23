@@ -20,7 +20,15 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
 # DETALLES DEL DATASET
 
 1) Informacion de los planetas: gráficas
-  - Gases que hay en las atmosferas: 
+  - Gases que hay en las atmosferas:
+  Gases de la Tierra                                    Gases de Marte                                  Gases de Júpiter
+  
+  ![gases tierra](gases_tierra.jpg)                     ![gases marte](gases-marte.jpg)                  ![gases jupiter](gases-jupiter.jpg)
+  
+  Gases de Saturno                                      Gases de Urano                                  Gases de Neptuno
+  
+  ![gases saturno](gases-saturno.jpg)                   ![gases urano](gases-urano.jpg)                  ![gases neptuno](gases-neptuno.jpg)              
+  
         En estas gráficas podemos observar el porcentaje que hay de los gases predominantes en cada planeta.
   - Comparación de tamaño (masa, radio, gravedad)
         En estas gráficas comparamos los tamaños de los planetas en distintos aspectos: masa, radio y gravedad
