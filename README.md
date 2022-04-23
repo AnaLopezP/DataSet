@@ -62,9 +62,7 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
         En estas gráficas vemos la relación que tiene el tamaño y masa de cada planeta con la fuerza de atracción.
 
 2) Informacion de la tripulación: gráficas
-  - Edad media
-  - Masa media
-  - Altura media
+  - Comparación de la masa con la edad y la masa con la altura
   - Peso medio tierra
   - Peso medio Saturno
   - Variación del peso en el viaje (pérdida de masa muscular)
