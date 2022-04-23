@@ -51,6 +51,11 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
    ![gases neptuno](/Graficas/Gases/gases-neptuno.jpg)   
         En estas gráficas podemos observar el porcentaje que hay de los gases predominantes en cada planeta.
   - Comparación de tamaño (masa, radio, gravedad)
+  ![masa](/Graficas/masa.jpg)
+  
+  ![radio](/Graficas/radio.jpg)
+  
+  ![gravedad](/Graficas/gravedad.jpg)
         En estas gráficas comparamos los tamaños de los planetas en distintos aspectos: masa, radio y gravedad
   - Relación de la masa con la fuerza de atracción
         En estas gráficas vemos la relación que tiene el tamaño y masa de cada planeta con la fuerza de atracción.
