@@ -23,7 +23,7 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
   - Gases que hay en las atmosferas:
   Gases de la Tierra                                    Gases de Marte                                  Gases de Júpiter
   
-  ![gases tierra](gases_tierra.jpg)                     ![gases marte](gases-marte.jpg)                  ![gases jupiter](gases-jupiter.jpg)
+  ![gases tierra](/Graficas/Gases/gases_tierra.jpg)                     ![gases marte](gases-marte.jpg)                  ![gases jupiter](gases-jupiter.jpg)
   
   Gases de Saturno                                      Gases de Urano                                  Gases de Neptuno
   
