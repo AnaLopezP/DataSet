@@ -29,26 +29,26 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
   
   Gases de Marte
   
-  ![gases marte](gases-marte.jpg)
+  ![gases marte](/Graficas/Gases/gases-marte.jpg)
   
   
   Gases de Júpiter
   
-  ![gases jupiter](gases-jupiter.jpg)
+  ![gases jupiter](/Graficas/Gases/gases-jupiter.jpg)
   
   
   Gases de Saturno                                                                     
   
-  ![gases saturno](gases-saturno.jpg)                                             
+  ![gases saturno](/Graficas/Gases/gases-saturno.jpg)                                             
   
   
    Gases de Urano  
    
-   ![gases urano](gases-urano.jpg) 
+   ![gases urano](/Graficas/Gases/gases-urano.jpg) 
    
    Gases de Neptuno
    
-   ![gases neptuno](gases-neptuno.jpg)   
+   ![gases neptuno](/Graficas/Gases/gases-neptuno.jpg)   
         En estas gráficas podemos observar el porcentaje que hay de los gases predominantes en cada planeta.
   - Comparación de tamaño (masa, radio, gravedad)
         En estas gráficas comparamos los tamaños de los planetas en distintos aspectos: masa, radio y gravedad
