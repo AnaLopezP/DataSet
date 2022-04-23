@@ -58,6 +58,7 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
   ![gravedad](/Graficas/gravedad.jpg)
         En estas gráficas comparamos los tamaños de los planetas en distintos aspectos: masa, radio y gravedad
   - Relación de la masa con la fuerza de atracción
+  ![fuerza](/Graficas/Fuerza.jpg)
         En estas gráficas vemos la relación que tiene el tamaño y masa de cada planeta con la fuerza de atracción.
 
 2) Informacion de la tripulación: gráficas
