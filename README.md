@@ -32,5 +32,8 @@ DETALLES DEL DATASET:
 3) Condiciones de supervivencia
   - Porcentaje de supervivencia comparación
 
-4) 
+4) Investigacion del planeta en el que se encuentra la tripulación
+  - Comparación de los errores calculados
+
+5)
   
