@@ -72,6 +72,7 @@ Los astronautas, al despertarse, evaluaron ciertos datos para averiguar en que p
   - Variación del Peso
     ![variacion peso](/Graficas/variacion-peso.jpg)
   - Variación del peso en el viaje (pérdida de masa muscular)
+  ![variacion masa](/Graficas/variacion-masa.jpg)
       Cuando se hace un viaje espacial de muchos meses, se empieza a perder un porcentaje de masa muscular cada cierto tiempo. Hemos calculado la masa que les quedarían a la tripulación una vez cubren la distancia hacia cada planeta. Estas gráficas comparan, en cada tripulante, la masa inicial con la restante en todo el proceso de pérdida.
   
 
